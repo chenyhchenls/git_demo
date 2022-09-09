@@ -16,6 +16,3 @@ hello Git !!!
 hello Git !!!
 hello Git !!!
 hello Git !!!
-2222222222222
-4444::::44444
-修改;;;;;;;;;
